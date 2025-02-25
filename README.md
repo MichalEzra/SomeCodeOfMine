@@ -1,11 +1,9 @@
 
 # Title to my document 
-sdhngjxfhg
-tdrfyghjk
+
+try to lern git 
 # Sub title 
-sazdxfcgvbjhnmkl
-xdfcgfvhjbn
-easrdfg
+today hello word
 ### example
 ```cpp
 int x = 1 ;
