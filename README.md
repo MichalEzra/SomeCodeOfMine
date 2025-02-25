@@ -3,6 +3,7 @@
 
 try to learn git 
 whay it not good
+bbbbbbbbbbbbbbbbbbbbbbb
 ************
 # Sub title 
 today hello word
