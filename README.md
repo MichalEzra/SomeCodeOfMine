@@ -1,8 +1,9 @@
 
 # Title to my document 
-sdhngjxfhg
+
+try to lern git 
 # Sub title 
-easrdfg
+today hello word
 ### example
 ```cpp
 int x = 1 ;
